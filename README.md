@@ -1,9 +1,9 @@
-IMDb Movie Database (SQL Project)
-📌 Overview
+**IMDb Movie Database (SQL Project)**
+**📌 Overview**
 
 This project is a relational movie database inspired by IMDb. It stores and analyzes movie data such as titles, genres, release years, ratings, and votes using SQL.
 
-🗂️ Features
+**🗂️ Features**
 
 Normalized database design
 
@@ -17,7 +17,7 @@ Genre-wise and rating-based analysis
 
 SQL / MySQL
 
-📊 Key Analysis
+**📊 Key Analysis**
 
 Top-rated movies
 
@@ -25,7 +25,7 @@ Genre-wise average ratings
 
 Most voted movies
 
-🎯 Learning Outcomes
+**🎯 Learning Outcomes**
 
 Database normalization
 
